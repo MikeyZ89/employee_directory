@@ -138,9 +138,9 @@ export default class App extends React.Component {
                     </button>
                   </th>
                   <th scope="col" className="h2">Email</th>
-                  <th scope="col" className="h2">Number</th>
+                  <th scope="col" className="h2">Phone</th>
                   <th scope="col" className="h2">Location</th>
-                  <th scope="col" className="h2">D.O.B</th>
+                  <th scope="col" className="h2">Birthday</th>
                 </tr>
               </thead>
               <tbody>
