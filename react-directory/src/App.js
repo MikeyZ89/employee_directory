@@ -5,6 +5,8 @@ import API from "./API/API";
 import moment from "moment";
 import "./App.css";
 
+import Footer from './components/Footer'
+
 const sortType = {
   up: {
     class: "sortup",
@@ -160,6 +162,7 @@ export default class App extends React.Component {
               </tbody>
             </table>
           </div>
+          <Footer />
         </div>
       )
     );
