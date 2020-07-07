@@ -11,9 +11,10 @@ function Footer() {
                 <Row className="border-top justify-content-between p-3">
                     <Col className="p-0" md={3} sm={12}>
                         <h3>Mike Zlotkowski</h3>
+                        <h6>GitHub: MikeyZ89</h6>
                     </Col>
-                    <Col className="p-0 d-flex justify-content-end" md={3}>
-                        <h5>Employee Directory - All Rights Reserved 2020 UofA BootCamp</h5>
+                    <Col className="p-0 d-flex justify-content-end" md={5}>
+                        <h6>Employee Directory -2020 All Rights Reserved<br></br> University of Arizona Coding BootCamp</h6>
                     </Col>
                 </Row>
             </Container>
