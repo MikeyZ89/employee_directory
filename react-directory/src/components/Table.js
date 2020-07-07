@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Table(props) {
     return (
-        <tr className="text-center h4">
+        <tr varient="dark" className="text-center h4">
             <td>
                 <img src={props.photo} alt="employee" />
             </td>
